@@ -1,0 +1,15 @@
+* {
+  box-sizing: border-box;
+  font-family: 'Poppins', sans-serif;
+}
+
+body {
+  background-color: hsl(0, 100%, 74%);
+  margin: 0;
+  padding: 0;
+
+  h1,
+  p {
+    margin: 0;
+  }
+}
